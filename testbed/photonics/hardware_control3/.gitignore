@@ -1,0 +1,9 @@
+*.pyc
+*.graffle
+*.png
+.DS_Store
+*/.DS_Store
+.ipynb_checkpoints
+*.ai
+.#*
+*~

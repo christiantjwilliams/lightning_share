@@ -1,0 +1,100 @@
+Adding datapath latency 1549000ns to P4
+avg completion time: 2138457.0
+sim_time:  2.2027931213378906  s
+model types served: {'GPT2': 1}
+num_reqs completed: 1
+Adding datapath latency 1549000ns to P4
+avg completion time: 2138457.0
+sim_time:  2.215425491333008  s
+model types served: {'GPT2': 1}
+num_reqs completed: 1
+Adding datapath latency 1549000ns to P4
+avg completion time: 2138457.0
+sim_time:  2.2105767726898193  s
+model types served: {'GPT2': 1}
+num_reqs completed: 1
+Adding datapath latency 1549000ns to P4
+avg completion time: 2138457.0
+sim_time:  2.3281242847442627  s
+model types served: {'GPT2': 1}
+num_reqs completed: 1
+Adding datapath latency 1549000ns to P4
+avg completion time: 2138457.0
+sim_time:  2.4447197914123535  s
+model types served: {'GPT2': 1}
+num_reqs completed: 1
+Adding datapath latency 344ns to Brainwave
+avg completion time: 589801.0
+sim_time:  2.4611923694610596  s
+model types served: {'GPT2': 1}
+num_reqs completed: 1
+Adding datapath latency 344ns to DPU
+avg completion time: 589801.0
+sim_time:  2.515314817428589  s
+model types served: {'GPT2': 1}
+num_reqs completed: 1
+Adding datapath latency 344ns to DPU
+avg completion time: 589801.0
+sim_time:  2.526434898376465  s
+model types served: {'GPT2': 1}
+num_reqs completed: 1
+Adding datapath latency 1549000ns to A100
+avg completion time: 2138457.0
+sim_time:  2.545085906982422  s
+model types served: {'GPT2': 1}
+num_reqs completed: 1
+Adding datapath latency 1549000ns to A100
+avg completion time: 2138457.0
+sim_time:  2.5466361045837402  s
+model types served: {'GPT2': 1}
+num_reqs completed: 1
+Adding datapath latency 344ns to DPU
+avg completion time: 589801.0
+sim_time:  2.6190805435180664  s
+model types served: {'GPT2': 1}
+num_reqs completed: 1
+Adding datapath latency 344ns to DPU
+avg completion time: 589801.0
+sim_time:  2.654296398162842  s
+model types served: {'GPT2': 1}
+num_reqs completed: 1
+Adding datapath latency 1549000ns to A100
+avg completion time: 2138457.0
+sim_time:  2.6463749408721924  s
+model types served: {'GPT2': 1}
+num_reqs completed: 1
+Adding datapath latency 344ns to DPU
+avg completion time: 589801.0
+sim_time:  2.6579582691192627  s
+model types served: {'GPT2': 1}
+num_reqs completed: 1
+Adding datapath latency 344ns to Brainwave
+avg completion time: 589801.0
+sim_time:  2.6787362098693848  s
+model types served: {'GPT2': 1}
+num_reqs completed: 1
+Adding datapath latency 344ns to Brainwave
+avg completion time: 589801.0
+sim_time:  2.683166265487671  s
+model types served: {'GPT2': 1}
+num_reqs completed: 1
+Adding datapath latency 1549000ns to A100
+avg completion time: 2138457.0
+sim_time:  2.686847686767578  s
+model types served: {'GPT2': 1}
+num_reqs completed: 1
+Adding datapath latency 344ns to Brainwave
+avg completion time: 589801.0
+sim_time:  2.6874828338623047  s
+model types served: {'GPT2': 1}
+num_reqs completed: 1
+Adding datapath latency 1549000ns to A100
+avg completion time: 2138457.0
+sim_time:  2.692147731781006  s
+model types served: {'GPT2': 1}
+num_reqs completed: 1
+Adding datapath latency 344ns to Brainwave
+avg completion time: 589801.0
+sim_time:  2.7277486324310303  s
+model types served: {'GPT2': 1}
+num_reqs completed: 1

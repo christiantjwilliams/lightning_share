@@ -1,0 +1,15 @@
+[submodule "fpga/lib/xfcp"]
+	path = fpga/lib/xfcp
+	url = https://github.com/zhizhenzhong/xfcp.git
+[submodule "simulation/models/Deep-Compression-PyTorch"]
+	path = simulation/models/Deep-Compression-PyTorch
+	url = https://github.com/zhizhenzhong/Deep-Compression-PyTorch.git
+[submodule "fpga/lib/verilog-axis"]
+	path = fpga/lib/verilog-axis
+	url = https://github.com/zhizhenzhong/verilog-axis.git
+[submodule "fpga/lib/verilog-axi"]
+	path = fpga/lib/verilog-axi
+	url = https://github.com/zhizhenzhong/verilog-axi.git
+[submodule "fpga/HTG-ZRF16"]
+	path = fpga/HTG-ZRF16
+	url = https://github.com/zhizhenzhong/HTG-ZRF16.git

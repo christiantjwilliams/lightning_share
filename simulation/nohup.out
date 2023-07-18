@@ -1,0 +1,270 @@
+building AlexNet...:   0%|          | 0/5 [00:00<?, ?it/s]building AlexNet...: 100%|██████████| 5/5 [00:00<00:00, 8211.25it/s]
+building ResNet18...:   0%|          | 0/17 [00:00<?, ?it/s]building ResNet18...: 100%|██████████| 17/17 [00:00<00:00, 935.38it/s]
+building VGG16...:   0%|          | 0/13 [00:00<?, ?it/s]building VGG16...: 100%|██████████| 13/13 [00:00<00:00, 1900.98it/s]
+building VGG19...:   0%|          | 0/16 [00:00<?, ?it/s]building VGG19...: 100%|██████████| 16/16 [00:00<00:00, 1853.22it/s]
+building MegatronBERT...:   0%|          | 0/44 [00:00<?, ?it/s]building MegatronBERT...: 100%|██████████| 44/44 [00:00<00:00, 744150.71it/s]
+building GPT2...:   0%|          | 0/36 [00:00<?, ?it/s]building GPT2...: 100%|██████████| 36/36 [00:00<00:00, 86381.55it/s]
+building DLRM...:   0%|          | 0/26 [00:00<?, ?it/s]building DLRM...: 100%|██████████| 26/26 [00:00<00:00, 1417.14it/s]
+simulation objects (tasks) per model:
+AlexNet tasks:  44979
+ResNet18 tasks:  2320839
+VGG16 tasks:  1549133
+VGG19 tasks:  1965314
+BERT tasks:  3364
+GPT2 tasks:  72785
+DLRM tasks:  3777
+calc model sizes...:   0%|          | 0/7 [00:00<?, ?it/s]calc model sizes...: 100%|██████████| 7/7 [00:00<00:00, 171.24it/s]
+Load Factor 0
+  0%|          | 0/1000 [00:00<?, ?it/s]  0%|          | 1/1000 [00:00<02:35,  6.44it/s]  0%|          | 2/1000 [00:06<1:06:14,  3.98s/it]  0%|          | 4/1000 [00:49<4:05:21, 14.78s/it]  1%|          | 6/1000 [00:49<2:09:35,  7.82s/it]  1%|          | 7/1000 [00:49<1:37:13,  5.87s/it]  1%|          | 8/1000 [00:53<1:31:04,  5.51s/it]  1%|          | 10/1000 [01:25<2:42:48,  9.87s/it]  1%|          | 11/1000 [01:29<2:21:19,  8.57s/it]launching 0 with lf 0
+launching 0 with lf 1
+launching 0 with lf 2
+launching 0 with lf 3
+launching 0 with lf 4
+launching 0 with lf 5
+launching 0 with lf 6
+launching 0 with lf 7
+launching 0 with lf 8
+launching 0 with lf 9
+launching 0 with lf 10
+launching 1 with lf 0
+launching 1 with lf 1
+launching 1 with lf 2
+launching 1 with lf 3
+launching 1 with lf 4
+launching 1 with lf 5
+launching 1 with lf 6
+launching 1 with lf 7
+launching 1 with lf 8
+launching 1 with lf 9
+launching 1 with lf 10
+launching 2 with lf 0
+launching 2 with lf 1
+launching 2 with lf 2
+launching 2 with lf 3
+launching 2 with lf 4
+launching 2 with lf 5
+launching 2 with lf 6
+launching 2 with lf 7
+launching 2 with lf 8
+launching 2 with lf 9
+launching 2 with lf 10
+launching 3 with lf 0
+launching 3 with lf 1
+launching 3 with lf 2
+launching 3 with lf 3
+launching 3 with lf 4
+launching 3 with lf 5
+launching 3 with lf 6
+launching 3 with lf 7
+launching 3 with lf 8
+launching 3 with lf 9
+launching 3 with lf 10
+launching 4 with lf 0
+launching 4 with lf 1
+launching 4 with lf 2
+launching 4 with lf 3
+launching 4 with lf 4
+launching 4 with lf 5
+launching 4 with lf 6
+launching 4 with lf 7
+launching 4 with lf 8
+launching 4 with lf 9
+launching 4 with lf 10
+launching 5 with lf 0
+launching 5 with lf 1
+launching 5 with lf 2
+launching 5 with lf 3
+launching 5 with lf 4
+launching 5 with lf 5
+launching 5 with lf 6
+launching 5 with lf 7
+launching 5 with lf 8
+launching 5 with lf 9
+launching 5 with lf 10
+launching 6 with lf 0
+launching 6 with lf 1
+launching 6 with lf 2
+launching 6 with lf 3
+launching 6 with lf 4
+launching 6 with lf 5
+launching 6 with lf 6
+launching 6 with lf 7
+launching 6 with lf 8
+launching 6 with lf 9
+launching 6 with lf 10
+Traceback (most recent call last):
+  File "/afs/csail.mit.edu/u/c/chrwill/lightning-sim/simulation/event_driven_simulation/create_csv.py", line 9, in <module>
+    with open("sim_data/lf_{}.p".format(i), 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'sim_data/lf_0.p'
+launching 0 with lf 0
+launching 0 with lf 1
+launching 0 with lf 2
+launching 0 with lf 3
+launching 0 with lf 4
+launching 0 with lf 5
+launching 0 with lf 6
+launching 0 with lf 7
+launching 0 with lf 8
+launching 0 with lf 9
+launching 0 with lf 10
+launching 1 with lf 0
+launching 1 with lf 1
+launching 1 with lf 2
+launching 1 with lf 3
+launching 1 with lf 4
+launching 1 with lf 5
+launching 1 with lf 6
+launching 1 with lf 7
+launching 1 with lf 8
+launching 1 with lf 9
+launching 1 with lf 10
+launching 2 with lf 0
+launching 2 with lf 1
+launching 2 with lf 2
+launching 2 with lf 3
+launching 2 with lf 4
+launching 2 with lf 5
+launching 2 with lf 6
+launching 2 with lf 7
+launching 2 with lf 8
+launching 2 with lf 9
+launching 2 with lf 10
+launching 3 with lf 0
+launching 3 with lf 1
+launching 3 with lf 2
+launching 3 with lf 3
+launching 3 with lf 4
+launching 3 with lf 5
+launching 3 with lf 6
+launching 3 with lf 7
+launching 3 with lf 8
+launching 3 with lf 9
+launching 3 with lf 10
+launching 4 with lf 0
+launching 4 with lf 1
+launching 4 with lf 2
+launching 4 with lf 3
+launching 4 with lf 4
+launching 4 with lf 5
+launching 4 with lf 6
+launching 4 with lf 7
+launching 4 with lf 8
+launching 4 with lf 9
+launching 4 with lf 10
+launching 5 with lf 0
+launching 5 with lf 1
+launching 5 with lf 2
+launching 5 with lf 3
+launching 5 with lf 4
+launching 5 with lf 5
+launching 5 with lf 6
+launching 5 with lf 7
+launching 5 with lf 8
+launching 5 with lf 9
+launching 5 with lf 10
+launching 6 with lf 0
+launching 6 with lf 1
+launching 6 with lf 2
+launching 6 with lf 3
+launching 6 with lf 4
+launching 6 with lf 5
+launching 6 with lf 6
+launching 6 with lf 7
+launching 6 with lf 8
+launching 6 with lf 9
+launching 6 with lf 10
+Traceback (most recent call last):
+  File "/afs/csail.mit.edu/u/c/chrwill/lightning-sim/simulation/event_driven_simulation/create_csv.py", line 9, in <module>
+    with open("sim_data/lf_{}.p".format(i), 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'sim_data/lf_0.p'
+launching 0 with lf 0
+launching 0 with lf 1
+launching 0 with lf 2
+launching 0 with lf 3
+launching 0 with lf 4
+launching 0 with lf 5
+launching 0 with lf 6
+launching 0 with lf 7
+launching 0 with lf 8
+launching 0 with lf 9
+launching 0 with lf 10
+launching 1 with lf 0
+launching 1 with lf 1
+launching 1 with lf 2
+launching 1 with lf 3
+launching 1 with lf 4
+launching 1 with lf 5
+launching 1 with lf 6
+launching 1 with lf 7
+launching 1 with lf 8
+launching 1 with lf 9
+launching 1 with lf 10
+launching 2 with lf 0
+launching 2 with lf 1
+launching 2 with lf 2
+launching 2 with lf 3
+launching 2 with lf 4
+launching 2 with lf 5
+launching 2 with lf 6
+launching 2 with lf 7
+launching 2 with lf 8
+launching 2 with lf 9
+launching 2 with lf 10
+launching 3 with lf 0
+launching 3 with lf 1
+launching 3 with lf 2
+launching 3 with lf 3
+launching 3 with lf 4
+launching 3 with lf 5
+launching 3 with lf 6
+launching 3 with lf 7
+launching 3 with lf 8
+launching 3 with lf 9
+launching 3 with lf 10
+launching 4 with lf 0
+launching 4 with lf 1
+launching 4 with lf 2
+launching 4 with lf 3
+launching 4 with lf 4
+launching 4 with lf 5
+launching 4 with lf 6
+launching 4 with lf 7
+launching 4 with lf 8
+launching 4 with lf 9
+launching 4 with lf 10
+launching 5 with lf 0
+launching 5 with lf 1
+launching 5 with lf 2
+launching 5 with lf 3
+launching 5 with lf 4
+launching 5 with lf 5
+launching 5 with lf 6
+launching 5 with lf 7
+launching 5 with lf 8
+launching 5 with lf 9
+launching 5 with lf 10
+launching 6 with lf 0
+launching 6 with lf 1
+launching 6 with lf 2
+launching 6 with lf 3
+launching 6 with lf 4
+launching 6 with lf 5
+launching 6 with lf 6
+launching 6 with lf 7
+launching 6 with lf 8
+launching 6 with lf 9
+launching 6 with lf 10
+runall.sh: line 19: 22351 Killed                  python3 parallel_eq_sim.py --proc_id ${processor} --lf ${loadfactor}
+runall.sh: line 19: 22352 Killed                  python3 parallel_eq_sim.py --proc_id ${processor} --lf ${loadfactor}
+runall.sh: line 19: 22355 Killed                  python3 parallel_eq_sim.py --proc_id ${processor} --lf ${loadfactor}
+runall.sh: line 19: 22377 Killed                  python3 parallel_eq_sim.py --proc_id ${processor} --lf ${loadfactor}
+runall.sh: line 19: 22379 Killed                  python3 parallel_eq_sim.py --proc_id ${processor} --lf ${loadfactor}
+runall.sh: line 19: 22382 Killed                  python3 parallel_eq_sim.py --proc_id ${processor} --lf ${loadfactor}
+runall.sh: line 19: 22385 Killed                  python3 parallel_eq_sim.py --proc_id ${processor} --lf ${loadfactor}
+runall.sh: line 19: 22404 Killed                  python3 parallel_eq_sim.py --proc_id ${processor} --lf ${loadfactor}
+runall.sh: line 19: 22411 Killed                  python3 parallel_eq_sim.py --proc_id ${processor} --lf ${loadfactor}
+runall.sh: line 19: 22415 Killed                  python3 parallel_eq_sim.py --proc_id ${processor} --lf ${loadfactor}
+Traceback (most recent call last):
+  File "/afs/csail.mit.edu/u/c/chrwill/lightning-sim/simulation/event_driven_simulation/create_csv.py", line 9, in <module>
+    with open("sim_data/lf_{}.p".format(i), 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'sim_data/lf_0.p'
